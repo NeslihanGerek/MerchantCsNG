@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantCsNG", "MerchantCsNG\MerchantCsNG.csproj", "{A742A8C4-E295-4B95-B0AB-5AA08463DAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTetstsMerchant", "NunitTetstsMerchant\NunitTetstsMerchant.csproj", "{0A5D5E5E-3DFF-435A-A290-DD14839C752E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A742A8C4-E295-4B95-B0AB-5AA08463DAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A742A8C4-E295-4B95-B0AB-5AA08463DAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A742A8C4-E295-4B95-B0AB-5AA08463DAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A742A8C4-E295-4B95-B0AB-5AA08463DAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5D5E5E-3DFF-435A-A290-DD14839C752E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5D5E5E-3DFF-435A-A290-DD14839C752E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5D5E5E-3DFF-435A-A290-DD14839C752E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5D5E5E-3DFF-435A-A290-DD14839C752E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
